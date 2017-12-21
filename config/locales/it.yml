@@ -54,3 +54,18 @@ it:
   workload_settings_hours_low_min:              "... basso:"
   workload_settings_hours_normal_min:           "... normale:"
   workload_settings_hours_high_min:             "... sovraccarico:"
+  
+  workload_settings_holiday_setup:	        "Configura i giorni di vacanza 'generali' "
+ 
+  workload_user_vacation:           "Vacanze"
+  workload_user_vacation_menu:      "Le mie Ferie/Assenze"
+  workload_user_vacation_new:       "Inserisci una nuova 'Assenza'"
+  workload_user_vacation_type:      "Tipologia"
+  
+  workload_user_data_site_title:   "Informazioni sul Carico di lavoro dell'utente"
+  workload_user_data_title:        "La mia configurazione"
+  workload_holiday_title:           "Ferie"
+  workload_end_before_start:        "La data finale dev'essere uguale o successiva a quella iniziale"
+  permission_edit_national_holiday: "Workload: Inserisci/Modifica le giornate di Ferie 'generali'"
+  permission_edit_user_vacations:   "Workload: Inserisci/Modifica le proprie Ferie/Assenze"
+  permission_edit_user_data:        "Workload: Inserisci/Modifica le proprie soglie di workload"
